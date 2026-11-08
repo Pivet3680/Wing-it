@@ -1,0 +1,832 @@
+fileFormatVersion: 2
+guid: 7a5e4e767c9b89f4998c6b8d172d80cb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9135546420375069366
+    second: crayon_foam_0
+  - first:
+      213: -135115712166248881
+    second: crayon_foam_1
+  - first:
+      213: 7061102827393190660
+    second: crayon_foam_2
+  - first:
+      213: -3561742575071464234
+    second: crayon_foam_3
+  - first:
+      213: 2809862491057355611
+    second: crayon_foam_4
+  - first:
+      213: -5114361174411913588
+    second: crayon_foam_5
+  - first:
+      213: -1624901764523566973
+    second: crayon_foam_6
+  - first:
+      213: 217496959568055031
+    second: crayon_foam_7
+  - first:
+      213: -6362153250702640952
+    second: crayon_foam_8
+  - first:
+      213: 531747701474624702
+    second: crayon_foam_9
+  - first:
+      213: -4126067443038634849
+    second: crayon_foam_10
+  - first:
+      213: -3152304247847257131
+    second: crayon_foam_11
+  - first:
+      213: 3168227844995684221
+    second: crayon_foam_12
+  - first:
+      213: -6462804200888382454
+    second: crayon_foam_13
+  - first:
+      213: 5749487019831048474
+    second: crayon_foam_14
+  - first:
+      213: 8909221192141513999
+    second: crayon_foam_15
+  - first:
+      213: 977556880654191890
+    second: crayon_foam_16
+  - first:
+      213: -6955009214232675776
+    second: crayon_foam_17
+  - first:
+      213: -6735828711786043842
+    second: crayon_foam_18
+  - first:
+      213: 5316075520473201270
+    second: crayon_foam_19
+  - first:
+      213: -3573556867847030122
+    second: crayon_foam_20
+  - first:
+      213: 7585348091023641115
+    second: crayon_foam_21
+  - first:
+      213: 915636299011681927
+    second: crayon_foam_22
+  - first:
+      213: -4678526447588102654
+    second: crayon_foam_23
+  - first:
+      213: 8442759376969758702
+    second: crayon_foam_24
+  - first:
+      213: -5190205191337350701
+    second: crayon_foam_25
+  - first:
+      213: 1380940030023192674
+    second: crayon_foam_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: crayon_foam_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17
+        width: 2093
+        height: 704
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b22c8f211bf7ce70800000000000000
+      internalID: 9135546420375069366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon_foam_1
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 682
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4eb1c4c9f8ff1ef0800000000000000
+      internalID: -135115712166248881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon_foam_2
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 675
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b07453c931ef160800000000000000
+      internalID: 7061102827393190660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon_foam_3
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 691
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4fa77bff5229ec0800000000000000
+      internalID: -3561742575071464234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon_foam_4
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 683
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5bfa2f5c03aef620800000000000000
+      internalID: 2809862491057355611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon_foam_5
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 604
+        width: 127
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c86d022eb932609b0800000000000000
+      internalID: -5114361174411913588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon_foam_6
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 681
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 388daaa44703379e0800000000000000
+      internalID: -1624901764523566973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon_foam_7
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 675
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa08c61554b40300800000000000000
+      internalID: 217496959568055031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon_foam_8
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 668
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c8b54d935715b7a0800000000000000
+      internalID: -6362153250702640952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon_foam_9
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 666
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4868897b5216700800000000000000
+      internalID: 531747701474624702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon_foam_10
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 675
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9cb06a75834db6c0800000000000000
+      internalID: -4126067443038634849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon_foam_11
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 675
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dbfb1bfcf3c044d0800000000000000
+      internalID: -3152304247847257131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon_foam_12
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 674
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d771874607ec7fb20800000000000000
+      internalID: 3168227844995684221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon_foam_13
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 667
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c452912d18f46a0800000000000000
+      internalID: -6462804200888382454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon_foam_14
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 649
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19bfb18bf74acf40800000000000000
+      internalID: 5749487019831048474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon_foam_15
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 653
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f052afe9879e3ab70800000000000000
+      internalID: 8909221192141513999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon_foam_16
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 657
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21dc12bbdcaf09d00800000000000000
+      internalID: 977556880654191890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon_foam_17
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 651
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ab71808f7da7f90800000000000000
+      internalID: -6955009214232675776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon_foam_18
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 634
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36ad1e79778582a0800000000000000
+      internalID: -6735828711786043842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon_foam_19
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 620
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a74f4258e76c940800000000000000
+      internalID: 5316075520473201270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon_foam_20
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 611
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69af15356fc286ec0800000000000000
+      internalID: -3573556867847030122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon_foam_21
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 618
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ac62f56e1944960800000000000000
+      internalID: 7585348091023641115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon_foam_22
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 598
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e6b0adc5ef4bc00800000000000000
+      internalID: 915636299011681927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon_foam_23
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 604
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ead3bdbf8821fb0800000000000000
+      internalID: -4678526447588102654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon_foam_24
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 589
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee77164fbe4ba2570800000000000000
+      internalID: 8442759376969758702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon_foam_25
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 79
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9e2fa90efa8f7b0800000000000000
+      internalID: -5190205191337350701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon_foam_26
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 79
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26056a904a51a2310800000000000000
+      internalID: 1380940030023192674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      crayon_foam_0: 9135546420375069366
+      crayon_foam_1: -135115712166248881
+      crayon_foam_10: -4126067443038634849
+      crayon_foam_11: -3152304247847257131
+      crayon_foam_12: 3168227844995684221
+      crayon_foam_13: -6462804200888382454
+      crayon_foam_14: 5749487019831048474
+      crayon_foam_15: 8909221192141513999
+      crayon_foam_16: 977556880654191890
+      crayon_foam_17: -6955009214232675776
+      crayon_foam_18: -6735828711786043842
+      crayon_foam_19: 5316075520473201270
+      crayon_foam_2: 7061102827393190660
+      crayon_foam_20: -3573556867847030122
+      crayon_foam_21: 7585348091023641115
+      crayon_foam_22: 915636299011681927
+      crayon_foam_23: -4678526447588102654
+      crayon_foam_24: 8442759376969758702
+      crayon_foam_25: -5190205191337350701
+      crayon_foam_26: 1380940030023192674
+      crayon_foam_3: -3561742575071464234
+      crayon_foam_4: 2809862491057355611
+      crayon_foam_5: -5114361174411913588
+      crayon_foam_6: -1624901764523566973
+      crayon_foam_7: 217496959568055031
+      crayon_foam_8: -6362153250702640952
+      crayon_foam_9: 531747701474624702
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

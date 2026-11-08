@@ -1,0 +1,806 @@
+fileFormatVersion: 2
+guid: 0685ff0150974114bb8896b920da9c06
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3000615189543966570
+    second: cardboard_boxes_0
+  - first:
+      213: 5604742951368956109
+    second: cardboard_boxes_1
+  - first:
+      213: 7617731997191537408
+    second: cardboard_boxes_2
+  - first:
+      213: 418136454881293610
+    second: cardboard_boxes_3
+  - first:
+      213: 5578135456623338407
+    second: cardboard_boxes_4
+  - first:
+      213: 7425928367510480548
+    second: cardboard_boxes_5
+  - first:
+      213: -5308919198815065310
+    second: cardboard_boxes_6
+  - first:
+      213: -377040631544232621
+    second: cardboard_boxes_7
+  - first:
+      213: -3913050088126300545
+    second: cardboard_boxes_8
+  - first:
+      213: -3445072959963205815
+    second: cardboard_boxes_9
+  - first:
+      213: -2941681912324933513
+    second: cardboard_boxes_10
+  - first:
+      213: -8027565363706635626
+    second: cardboard_boxes_11
+  - first:
+      213: 7868685311203798503
+    second: cardboard_boxes_12
+  - first:
+      213: -138726737579856366
+    second: cardboard_boxes_13
+  - first:
+      213: 7345915865102893497
+    second: cardboard_boxes_14
+  - first:
+      213: -7093496721436735270
+    second: cardboard_boxes_15
+  - first:
+      213: -210052179306929157
+    second: cardboard_boxes_16
+  - first:
+      213: 5544912845045028567
+    second: cardboard_boxes_17
+  - first:
+      213: -2993935107195364453
+    second: cardboard_boxes_18
+  - first:
+      213: 5420614353831811731
+    second: cardboard_boxes_19
+  - first:
+      213: -4654102571219502557
+    second: cardboard_boxes_20
+  - first:
+      213: 8778553454975894218
+    second: cardboard_boxes_21
+  - first:
+      213: -6951795173142637540
+    second: cardboard_boxes_22
+  - first:
+      213: 5985501350185526657
+    second: cardboard_boxes_23
+  - first:
+      213: -2252878865645712706
+    second: cardboard_boxes_24
+  - first:
+      213: -1101303692309744141
+    second: cardboard_boxes_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cardboard_boxes_0
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 2069
+        height: 724
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67d860fd9354a920800000000000000
+      internalID: 3000615189543966570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardboard_boxes_1
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 715
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc898b1e40c08cd40800000000000000
+      internalID: 5604742951368956109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardboard_boxes_2
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 701
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0038ab614ee97b960800000000000000
+      internalID: 7617731997191537408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardboard_boxes_3
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 708
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2537dce3e48dc500800000000000000
+      internalID: 418136454881293610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardboard_boxes_4
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 697
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3ab01c4a4896d40800000000000000
+      internalID: 5578135456623338407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardboard_boxes_5
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 699
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a665f881823e0760800000000000000
+      internalID: 7425928367510480548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardboard_boxes_6
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 691
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b6065dd1ee256b0800000000000000
+      internalID: -5308919198815065310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardboard_boxes_7
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 693
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355cae21b8b74caf0800000000000000
+      internalID: -377040631544232621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardboard_boxes_8
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 683
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ebbe45dad02b9c0800000000000000
+      internalID: -3913050088126300545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardboard_boxes_9
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 685
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94fe61c4564a030d0800000000000000
+      internalID: -3445072959963205815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardboard_boxes_10
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 681
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7783eade2eb0d27d0800000000000000
+      internalID: -2941681912324933513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardboard_boxes_11
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 638
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a590565db589090800000000000000
+      internalID: -8027565363706635626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardboard_boxes_12
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 667
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ede2a7b99f233d60800000000000000
+      internalID: 7868685311203798503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardboard_boxes_13
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 659
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e24b564c4231ef0800000000000000
+      internalID: -138726737579856366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardboard_boxes_14
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 653
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b14d591f8fe1f560800000000000000
+      internalID: 7345915865102893497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardboard_boxes_15
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 637
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad88d579056de8d90800000000000000
+      internalID: -7093496721436735270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardboard_boxes_16
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 642
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf32d14e7aeb51df0800000000000000
+      internalID: -210052179306929157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardboard_boxes_17
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 601
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d6d867badc73fc40800000000000000
+      internalID: 5544912845045028567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardboard_boxes_18
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 608
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b9c0fe1e76376d0800000000000000
+      internalID: -2993935107195364453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardboard_boxes_19
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 579
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a57800904e93b40800000000000000
+      internalID: 5420614353831811731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardboard_boxes_20
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 95
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32aba36be5e496fb0800000000000000
+      internalID: -4654102571219502557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardboard_boxes_21
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 79
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2cd954bdfa3d970800000000000000
+      internalID: 8778553454975894218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardboard_boxes_22
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 66
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14de894f13468f90800000000000000
+      internalID: -6951795173142637540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardboard_boxes_23
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 49
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185ed64f3c5c01350800000000000000
+      internalID: 5985501350185526657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardboard_boxes_24
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 41
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebac333ab9a2cb0e0800000000000000
+      internalID: -2252878865645712706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardboard_boxes_25
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 31
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f53d06702267b0f0800000000000000
+      internalID: -1101303692309744141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cardboard_boxes_0: 3000615189543966570
+      cardboard_boxes_1: 5604742951368956109
+      cardboard_boxes_10: -2941681912324933513
+      cardboard_boxes_11: -8027565363706635626
+      cardboard_boxes_12: 7868685311203798503
+      cardboard_boxes_13: -138726737579856366
+      cardboard_boxes_14: 7345915865102893497
+      cardboard_boxes_15: -7093496721436735270
+      cardboard_boxes_16: -210052179306929157
+      cardboard_boxes_17: 5544912845045028567
+      cardboard_boxes_18: -2993935107195364453
+      cardboard_boxes_19: 5420614353831811731
+      cardboard_boxes_2: 7617731997191537408
+      cardboard_boxes_20: -4654102571219502557
+      cardboard_boxes_21: 8778553454975894218
+      cardboard_boxes_22: -6951795173142637540
+      cardboard_boxes_23: 5985501350185526657
+      cardboard_boxes_24: -2252878865645712706
+      cardboard_boxes_25: -1101303692309744141
+      cardboard_boxes_3: 418136454881293610
+      cardboard_boxes_4: 5578135456623338407
+      cardboard_boxes_5: 7425928367510480548
+      cardboard_boxes_6: -5308919198815065310
+      cardboard_boxes_7: -377040631544232621
+      cardboard_boxes_8: -3913050088126300545
+      cardboard_boxes_9: -3445072959963205815
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,806 @@
+fileFormatVersion: 2
+guid: c6df67f9f6b2598489d6a03cab2bfc75
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4806469401045136271
+    second: plastic_bricks_0
+  - first:
+      213: 5338883690553346967
+    second: plastic_bricks_1
+  - first:
+      213: -376563955104690908
+    second: plastic_bricks_2
+  - first:
+      213: 3606559873833308745
+    second: plastic_bricks_3
+  - first:
+      213: -5197264713238972111
+    second: plastic_bricks_4
+  - first:
+      213: 6597611675301311801
+    second: plastic_bricks_5
+  - first:
+      213: -5164278452159142250
+    second: plastic_bricks_6
+  - first:
+      213: -6099737274405921638
+    second: plastic_bricks_7
+  - first:
+      213: 3581707355595273357
+    second: plastic_bricks_8
+  - first:
+      213: 9092432273403136371
+    second: plastic_bricks_9
+  - first:
+      213: -209561699594249831
+    second: plastic_bricks_10
+  - first:
+      213: -5467674968123490241
+    second: plastic_bricks_11
+  - first:
+      213: -1896551248092391176
+    second: plastic_bricks_12
+  - first:
+      213: 3284731301629278420
+    second: plastic_bricks_13
+  - first:
+      213: 4550636372534853353
+    second: plastic_bricks_14
+  - first:
+      213: 101114639201324625
+    second: plastic_bricks_15
+  - first:
+      213: 8059148661224953139
+    second: plastic_bricks_16
+  - first:
+      213: -6232114326448857653
+    second: plastic_bricks_17
+  - first:
+      213: 1370068279340507148
+    second: plastic_bricks_18
+  - first:
+      213: -7092349558805308279
+    second: plastic_bricks_19
+  - first:
+      213: -2861875389730553625
+    second: plastic_bricks_20
+  - first:
+      213: -1975133624510693763
+    second: plastic_bricks_21
+  - first:
+      213: 5403469753883443772
+    second: plastic_bricks_22
+  - first:
+      213: -5665440612013410861
+    second: plastic_bricks_23
+  - first:
+      213: 6954079965814026329
+    second: plastic_bricks_24
+  - first:
+      213: 4555738603953828213
+    second: plastic_bricks_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: plastic_bricks_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 2119
+        height: 661
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f837419547204b240800000000000000
+      internalID: 4806469401045136271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plastic_bricks_1
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 658
+        width: 178
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b0f801e66871a40800000000000000
+      internalID: 5338883690553346967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plastic_bricks_2
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 659
+        width: 321
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42dc4c4f31d26caf0800000000000000
+      internalID: -376563955104690908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plastic_bricks_3
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 586
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 942130dc8131d0230800000000000000
+      internalID: 3606559873833308745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plastic_bricks_4
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 572
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 139f7b3974b9fd7b0800000000000000
+      internalID: -5197264713238972111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plastic_bricks_5
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 112
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935fd40fcdc6f8b50800000000000000
+      internalID: 6597611675301311801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plastic_bricks_6
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 111
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696a9d9fb1cc458b0800000000000000
+      internalID: -5164278452159142250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plastic_bricks_7
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 97
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c53d74441695ba0800000000000000
+      internalID: -6099737274405921638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plastic_bricks_8
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 65
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d84f8abfcd7c4b130800000000000000
+      internalID: 3581707355595273357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plastic_bricks_9
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 80
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 379cd789afece2e70800000000000000
+      internalID: 9092432273403136371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plastic_bricks_10
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 75
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99958299ebc771df0800000000000000
+      internalID: -209561699594249831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plastic_bricks_11
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 61
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3044b1e59aee14b0800000000000000
+      internalID: -5467674968123490241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plastic_bricks_12
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 80
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f8112f20b81ea5e0800000000000000
+      internalID: -1896551248092391176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plastic_bricks_13
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 65
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d8383037b5b59d20800000000000000
+      internalID: 3284731301629278420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plastic_bricks_14
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 25
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee79e6abab172f30800000000000000
+      internalID: 4550636372534853353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plastic_bricks_15
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 47
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ecf278a3b376100800000000000000
+      internalID: 101114639201324625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plastic_bricks_16
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 47
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335d0681209d7df60800000000000000
+      internalID: 8059148661224953139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plastic_bricks_17
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 43
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd946c0a051389a0800000000000000
+      internalID: -6232114326448857653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plastic_bricks_18
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 47
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c002f1457d5730310800000000000000
+      internalID: 1370068279340507148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plastic_bricks_19
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 49
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98cd28437a9e29d90800000000000000
+      internalID: -7092349558805308279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plastic_bricks_20
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 23
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e08da3fe739848d0800000000000000
+      internalID: -2861875389730553625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plastic_bricks_21
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 19
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e3c17ee6ae694e0800000000000000
+      internalID: -1975133624510693763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plastic_bricks_22
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 23
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c324ac2cc1bfcfa40800000000000000
+      internalID: 5403469753883443772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plastic_bricks_23
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 15
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d57ed8b7cf4061b0800000000000000
+      internalID: -5665440612013410861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plastic_bricks_24
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 23
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950710672ead18060800000000000000
+      internalID: 6954079965814026329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plastic_bricks_25
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 17
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571b33a7f1c393f30800000000000000
+      internalID: 4555738603953828213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      plastic_bricks_0: 4806469401045136271
+      plastic_bricks_1: 5338883690553346967
+      plastic_bricks_10: -209561699594249831
+      plastic_bricks_11: -5467674968123490241
+      plastic_bricks_12: -1896551248092391176
+      plastic_bricks_13: 3284731301629278420
+      plastic_bricks_14: 4550636372534853353
+      plastic_bricks_15: 101114639201324625
+      plastic_bricks_16: 8059148661224953139
+      plastic_bricks_17: -6232114326448857653
+      plastic_bricks_18: 1370068279340507148
+      plastic_bricks_19: -7092349558805308279
+      plastic_bricks_2: -376563955104690908
+      plastic_bricks_20: -2861875389730553625
+      plastic_bricks_21: -1975133624510693763
+      plastic_bricks_22: 5403469753883443772
+      plastic_bricks_23: -5665440612013410861
+      plastic_bricks_24: 6954079965814026329
+      plastic_bricks_25: 4555738603953828213
+      plastic_bricks_3: 3606559873833308745
+      plastic_bricks_4: -5197264713238972111
+      plastic_bricks_5: 6597611675301311801
+      plastic_bricks_6: -5164278452159142250
+      plastic_bricks_7: -6099737274405921638
+      plastic_bricks_8: 3581707355595273357
+      plastic_bricks_9: 9092432273403136371
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

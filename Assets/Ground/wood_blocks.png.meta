@@ -1,0 +1,1924 @@
+fileFormatVersion: 2
+guid: ee1ea29120aac3545bf5a796350a3026
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1266258630967370548
+    second: wood_blocks_0
+  - first:
+      213: 3576738842166050833
+    second: wood_blocks_1
+  - first:
+      213: 8958068587200710075
+    second: wood_blocks_2
+  - first:
+      213: 7071541557941813734
+    second: wood_blocks_3
+  - first:
+      213: -3642131015206980218
+    second: wood_blocks_4
+  - first:
+      213: -5495164753755387100
+    second: wood_blocks_5
+  - first:
+      213: 5798579170704342057
+    second: wood_blocks_6
+  - first:
+      213: 1771205163069878954
+    second: wood_blocks_7
+  - first:
+      213: -4648192012725554011
+    second: wood_blocks_8
+  - first:
+      213: 5523687434013365307
+    second: wood_blocks_9
+  - first:
+      213: -7006713085285616051
+    second: wood_blocks_10
+  - first:
+      213: 1836421564139144885
+    second: wood_blocks_11
+  - first:
+      213: 2615799021782136004
+    second: wood_blocks_12
+  - first:
+      213: 3983171082007722650
+    second: wood_blocks_13
+  - first:
+      213: 3263464381456445414
+    second: wood_blocks_14
+  - first:
+      213: -5665320220346157229
+    second: wood_blocks_15
+  - first:
+      213: 7123133127096871329
+    second: wood_blocks_16
+  - first:
+      213: 1573174505074217331
+    second: wood_blocks_17
+  - first:
+      213: -5104761023577677519
+    second: wood_blocks_18
+  - first:
+      213: -7920958660874451299
+    second: wood_blocks_19
+  - first:
+      213: -113545165515130758
+    second: wood_blocks_20
+  - first:
+      213: 7488391472248202865
+    second: wood_blocks_21
+  - first:
+      213: 6287132897319389965
+    second: wood_blocks_22
+  - first:
+      213: 6806623500123207972
+    second: wood_blocks_23
+  - first:
+      213: 8365817879618002863
+    second: wood_blocks_24
+  - first:
+      213: -5153256166752868693
+    second: wood_blocks_25
+  - first:
+      213: 6795245798994436821
+    second: wood_blocks_26
+  - first:
+      213: 4898597480357527591
+    second: wood_blocks_27
+  - first:
+      213: 1165095728450840817
+    second: wood_blocks_28
+  - first:
+      213: 1482862184018648508
+    second: wood_blocks_29
+  - first:
+      213: -5657443447073284557
+    second: wood_blocks_30
+  - first:
+      213: 4902269894458189687
+    second: wood_blocks_31
+  - first:
+      213: -4767253700921653187
+    second: wood_blocks_32
+  - first:
+      213: 6321508762744064711
+    second: wood_blocks_33
+  - first:
+      213: 4855415514096879346
+    second: wood_blocks_34
+  - first:
+      213: -4427256916453288440
+    second: wood_blocks_35
+  - first:
+      213: -204641902851663392
+    second: wood_blocks_36
+  - first:
+      213: 3549185396032008485
+    second: wood_blocks_37
+  - first:
+      213: 8883741050733374584
+    second: wood_blocks_38
+  - first:
+      213: -7922491967489150499
+    second: wood_blocks_39
+  - first:
+      213: -6220265321262178033
+    second: wood_blocks_40
+  - first:
+      213: 6368655436178005936
+    second: wood_blocks_41
+  - first:
+      213: -6084314661716730127
+    second: wood_blocks_42
+  - first:
+      213: -1784599515795869663
+    second: wood_blocks_43
+  - first:
+      213: 7344179751033932060
+    second: wood_blocks_44
+  - first:
+      213: -1587629420781849902
+    second: wood_blocks_45
+  - first:
+      213: 3546906216005278489
+    second: wood_blocks_46
+  - first:
+      213: 828765853133709897
+    second: wood_blocks_47
+  - first:
+      213: 4386310648841300414
+    second: wood_blocks_48
+  - first:
+      213: -928506745128643631
+    second: wood_blocks_49
+  - first:
+      213: -739593535614520401
+    second: wood_blocks_50
+  - first:
+      213: -113059232635043698
+    second: wood_blocks_51
+  - first:
+      213: -9102123479883244816
+    second: wood_blocks_52
+  - first:
+      213: -7508238032091564626
+    second: wood_blocks_53
+  - first:
+      213: -5976560700653102273
+    second: wood_blocks_54
+  - first:
+      213: -5497465049501964015
+    second: wood_blocks_55
+  - first:
+      213: -3382572809529203505
+    second: wood_blocks_56
+  - first:
+      213: 3139606736242648500
+    second: wood_blocks_57
+  - first:
+      213: -3586806934439037982
+    second: wood_blocks_58
+  - first:
+      213: -3820512990241569735
+    second: wood_blocks_59
+  - first:
+      213: -628821724446770514
+    second: wood_blocks_60
+  - first:
+      213: 5845103195665526896
+    second: wood_blocks_61
+  - first:
+      213: 6108117422518289174
+    second: wood_blocks_62
+  - first:
+      213: -5149201112735218705
+    second: wood_blocks_63
+  - first:
+      213: -7985296461559001036
+    second: wood_blocks_64
+  - first:
+      213: 7900282733883355982
+    second: wood_blocks_65
+  - first:
+      213: 5780376435166229978
+    second: wood_blocks_66
+  - first:
+      213: 6720299879768804971
+    second: wood_blocks_67
+  - first:
+      213: 2910192933524761205
+    second: wood_blocks_68
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wood_blocks_0
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 603
+        width: 136
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cccda6beb785d6ee0800000000000000
+      internalID: -1266258630967370548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_blocks_1
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 651
+        width: 48
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11046adc60123a130800000000000000
+      internalID: 3576738842166050833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_blocks_2
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 711
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb50fad0be3715c70800000000000000
+      internalID: 8958068587200710075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_blocks_3
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 674
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1c88f8499232260800000000000000
+      internalID: 7071541557941813734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_blocks_4
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 707
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 685b725732d847dc0800000000000000
+      internalID: -3642131015206980218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_blocks_5
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 673
+        width: 59
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42bc92665c04db3b0800000000000000
+      internalID: -5495164753755387100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_blocks_6
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 662
+        width: 122
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92cbfc79801b87050800000000000000
+      internalID: 5798579170704342057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_blocks_7
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 645
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa23e1926b5949810800000000000000
+      internalID: 1771205163069878954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_blocks_8
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 642
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a47fa9ddfd4e7fb0800000000000000
+      internalID: -4648192012725554011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_blocks_9
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 626
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b34d7aa947418ac40800000000000000
+      internalID: 5523687434013365307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_blocks_10
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 580
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d463874729723ce90800000000000000
+      internalID: -7006713085285616051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_blocks_11
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 658
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b6816ccea74c7910800000000000000
+      internalID: 1836421564139144885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_blocks_12
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 657
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c47329e95f2d4420800000000000000
+      internalID: 2615799021782136004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_blocks_13
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 647
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9abdaecef0174730800000000000000
+      internalID: 3983171082007722650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_blocks_14
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 665
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6efe9d970972a4d20800000000000000
+      internalID: 3263464381456445414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_blocks_15
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 630
+        width: 65
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357fd67964db061b0800000000000000
+      internalID: -5665320220346157229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_blocks_16
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 593
+        width: 61
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a92d60d6d37ad260800000000000000
+      internalID: 7123133127096871329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_blocks_17
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 659
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37156a890e905d510800000000000000
+      internalID: 1573174505074217331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_blocks_18
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 630
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131a46e25ee3829b0800000000000000
+      internalID: -5104761023577677519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_blocks_19
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 625
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d964602a01a131290800000000000000
+      internalID: -7920958660874451299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_blocks_20
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 606
+        width: 74
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78f187064b9c6ef0800000000000000
+      internalID: -113545165515130758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_blocks_21
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 580
+        width: 63
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1762b6a6e5c1ce760800000000000000
+      internalID: 7488391472248202865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_blocks_22
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 640
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b05683f02604750800000000000000
+      internalID: 6287132897319389965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_blocks_23
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 626
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4297ba4a20cf57e50800000000000000
+      internalID: 6806623500123207972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_blocks_24
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 594
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf1e3a990b591470800000000000000
+      internalID: 8365817879618002863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_blocks_25
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 645
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6aa18c1d4fb78b0800000000000000
+      internalID: -5153256166752868693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_blocks_26
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 638
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d2678a2d009d4e50800000000000000
+      internalID: 6795245798994436821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_blocks_27
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 586
+        width: 58
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720855a54705bf340800000000000000
+      internalID: 4898597480357527591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_blocks_28
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 613
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f823af54604b2010800000000000000
+      internalID: 1165095728450840817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_blocks_29
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 622
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd9a41cc4f249410800000000000000
+      internalID: 1482862184018648508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_blocks_30
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 634
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ed558c829bc71b0800000000000000
+      internalID: -5657443447073284557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_blocks_31
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 634
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777a544ee7c580440800000000000000
+      internalID: 4902269894458189687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_blocks_32
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 642
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38066a540057ddb0800000000000000
+      internalID: -4767253700921653187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_blocks_33
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 604
+        width: 68
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca01e71ab28ab750800000000000000
+      internalID: 6321508762744064711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_blocks_34
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 600
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f64aaa5fa6e16340800000000000000
+      internalID: 4855415514096879346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_blocks_35
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 640
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80619658a493f82c0800000000000000
+      internalID: -4427256916453288440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_blocks_36
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 592
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9dd5a0647f82df0800000000000000
+      internalID: -204641902851663392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_blocks_37
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 617
+        width: 13
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521fd74305d314130800000000000000
+      internalID: 3549185396032008485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_blocks_38
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 626
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ca485ea63694b70800000000000000
+      internalID: 8883741050733374584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_blocks_39
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 602
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd17cedd787ad0290800000000000000
+      internalID: -7922491967489150499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_blocks_40
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 597
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01ac7d85ad2da9a0800000000000000
+      internalID: -6220265321262178033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_blocks_41
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 578
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf104a6062026850800000000000000
+      internalID: 6368655436178005936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_blocks_42
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 583
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe5cae1d0c209ba0800000000000000
+      internalID: -6084314661716730127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_blocks_43
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 580
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12037a21234db37e0800000000000000
+      internalID: -1784599515795869663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_blocks_44
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 590
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c198efa8294cbe560800000000000000
+      internalID: 7344179751033932060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_blocks_45
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 576
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d2b653147b97f9e0800000000000000
+      internalID: -1587629420781849902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_blocks_46
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 594
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b9e904964293130800000000000000
+      internalID: 3546906216005278489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_blocks_47
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 586
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9422206072e508b00800000000000000
+      internalID: 828765853133709897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_blocks_48
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 0
+        width: 1984
+        height: 585
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9e2b2ab4e4fdc30800000000000000
+      internalID: 4386310648841300414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_blocks_49
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 562
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d39d05e8084d13f0800000000000000
+      internalID: -928506745128643631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_blocks_50
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 564
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa3758f099f6cb5f0800000000000000
+      internalID: -739593535614520401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_blocks_51
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 564
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80c5381a355e6ef0800000000000000
+      internalID: -113059232635043698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_blocks_52
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 546
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa11df8be2cea180800000000000000
+      internalID: -9102123479883244816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_blocks_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 126
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5ba184a416dc790800000000000000
+      internalID: -7508238032091564626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_blocks_54
+      rect:
+        serializedVersion: 2
+        x: 2050
+        y: 335
+        width: 101
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b130b35bdfe0da0800000000000000
+      internalID: -5976560700653102273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_blocks_55
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 136
+        width: 35
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1196f4f0aa415b3b0800000000000000
+      internalID: -5497465049501964015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_blocks_56
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 96
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4ed1d83ffae01d0800000000000000
+      internalID: -3382572809529203505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_blocks_57
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 77
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5aa2831bf129b20800000000000000
+      internalID: 3139606736242648500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_blocks_58
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 79
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e37adac81a193ec0800000000000000
+      internalID: -3586806934439037982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_blocks_59
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 87
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 934c2e46dafcafac0800000000000000
+      internalID: -3820512990241569735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_blocks_60
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 83
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa3d4729f9f547f0800000000000000
+      internalID: -628821724446770514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_blocks_61
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 79
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070f425436afd1150800000000000000
+      internalID: 5845103195665526896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_blocks_62
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 47
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 613c39ffe6464c450800000000000000
+      internalID: 6108117422518289174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_blocks_63
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 31
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe30f5e9edc5a88b0800000000000000
+      internalID: -5149201112735218705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_blocks_64
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 15
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43097961d278e2190800000000000000
+      internalID: -7985296461559001036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_blocks_65
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 29
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e43f44af94173ad60800000000000000
+      internalID: 7900282733883355982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_blocks_66
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 25
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad53f16fdb5083050800000000000000
+      internalID: 5780376435166229978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_blocks_67
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 31
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e48bd822d434d50800000000000000
+      internalID: 6720299879768804971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_blocks_68
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 19
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a689edd05136820800000000000000
+      internalID: 2910192933524761205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      wood_blocks_0: -1266258630967370548
+      wood_blocks_1: 3576738842166050833
+      wood_blocks_10: -7006713085285616051
+      wood_blocks_11: 1836421564139144885
+      wood_blocks_12: 2615799021782136004
+      wood_blocks_13: 3983171082007722650
+      wood_blocks_14: 3263464381456445414
+      wood_blocks_15: -5665320220346157229
+      wood_blocks_16: 7123133127096871329
+      wood_blocks_17: 1573174505074217331
+      wood_blocks_18: -5104761023577677519
+      wood_blocks_19: -7920958660874451299
+      wood_blocks_2: 8958068587200710075
+      wood_blocks_20: -113545165515130758
+      wood_blocks_21: 7488391472248202865
+      wood_blocks_22: 6287132897319389965
+      wood_blocks_23: 6806623500123207972
+      wood_blocks_24: 8365817879618002863
+      wood_blocks_25: -5153256166752868693
+      wood_blocks_26: 6795245798994436821
+      wood_blocks_27: 4898597480357527591
+      wood_blocks_28: 1165095728450840817
+      wood_blocks_29: 1482862184018648508
+      wood_blocks_3: 7071541557941813734
+      wood_blocks_30: -5657443447073284557
+      wood_blocks_31: 4902269894458189687
+      wood_blocks_32: -4767253700921653187
+      wood_blocks_33: 6321508762744064711
+      wood_blocks_34: 4855415514096879346
+      wood_blocks_35: -4427256916453288440
+      wood_blocks_36: -204641902851663392
+      wood_blocks_37: 3549185396032008485
+      wood_blocks_38: 8883741050733374584
+      wood_blocks_39: -7922491967489150499
+      wood_blocks_4: -3642131015206980218
+      wood_blocks_40: -6220265321262178033
+      wood_blocks_41: 6368655436178005936
+      wood_blocks_42: -6084314661716730127
+      wood_blocks_43: -1784599515795869663
+      wood_blocks_44: 7344179751033932060
+      wood_blocks_45: -1587629420781849902
+      wood_blocks_46: 3546906216005278489
+      wood_blocks_47: 828765853133709897
+      wood_blocks_48: 4386310648841300414
+      wood_blocks_49: -928506745128643631
+      wood_blocks_5: -5495164753755387100
+      wood_blocks_50: -739593535614520401
+      wood_blocks_51: -113059232635043698
+      wood_blocks_52: -9102123479883244816
+      wood_blocks_53: -7508238032091564626
+      wood_blocks_54: -5976560700653102273
+      wood_blocks_55: -5497465049501964015
+      wood_blocks_56: -3382572809529203505
+      wood_blocks_57: 3139606736242648500
+      wood_blocks_58: -3586806934439037982
+      wood_blocks_59: -3820512990241569735
+      wood_blocks_6: 5798579170704342057
+      wood_blocks_60: -628821724446770514
+      wood_blocks_61: 5845103195665526896
+      wood_blocks_62: 6108117422518289174
+      wood_blocks_63: -5149201112735218705
+      wood_blocks_64: -7985296461559001036
+      wood_blocks_65: 7900282733883355982
+      wood_blocks_66: 5780376435166229978
+      wood_blocks_67: 6720299879768804971
+      wood_blocks_68: 2910192933524761205
+      wood_blocks_7: 1771205163069878954
+      wood_blocks_8: -4648192012725554011
+      wood_blocks_9: 5523687434013365307
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

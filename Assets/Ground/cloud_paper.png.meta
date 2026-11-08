@@ -1,0 +1,858 @@
+fileFormatVersion: 2
+guid: c448e0518fe06cf42bea30793b665a4d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8441978185732202585
+    second: cloud_paper_0
+  - first:
+      213: -39714166080379041
+    second: cloud_paper_1
+  - first:
+      213: -150170148899798620
+    second: cloud_paper_2
+  - first:
+      213: 4531666069521912237
+    second: cloud_paper_3
+  - first:
+      213: 3520423617341320955
+    second: cloud_paper_4
+  - first:
+      213: -80310569333304157
+    second: cloud_paper_5
+  - first:
+      213: -2348938689407125374
+    second: cloud_paper_6
+  - first:
+      213: 2861280266975738772
+    second: cloud_paper_7
+  - first:
+      213: 6802384631075930967
+    second: cloud_paper_8
+  - first:
+      213: 7561269162267120303
+    second: cloud_paper_9
+  - first:
+      213: -2347228872629402682
+    second: cloud_paper_10
+  - first:
+      213: 8408778654461646463
+    second: cloud_paper_11
+  - first:
+      213: 7716705415933203927
+    second: cloud_paper_12
+  - first:
+      213: 6522066565440804989
+    second: cloud_paper_13
+  - first:
+      213: -7397747442098933836
+    second: cloud_paper_14
+  - first:
+      213: 1071229309586841872
+    second: cloud_paper_15
+  - first:
+      213: 8208001572690758098
+    second: cloud_paper_16
+  - first:
+      213: -5423051105548353864
+    second: cloud_paper_17
+  - first:
+      213: 4036948377060031047
+    second: cloud_paper_18
+  - first:
+      213: -2469848910337988144
+    second: cloud_paper_19
+  - first:
+      213: 9124612488676126074
+    second: cloud_paper_20
+  - first:
+      213: 5976129054903500652
+    second: cloud_paper_21
+  - first:
+      213: 3777183564729633866
+    second: cloud_paper_22
+  - first:
+      213: -1982159498760626544
+    second: cloud_paper_23
+  - first:
+      213: -761521184906530797
+    second: cloud_paper_24
+  - first:
+      213: 3050695150400848652
+    second: cloud_paper_25
+  - first:
+      213: 8632871610423622809
+    second: cloud_paper_26
+  - first:
+      213: -4236547262853508654
+    second: cloud_paper_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cloud_paper_0
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 712
+        width: 35
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9502a22be6ee72570800000000000000
+      internalID: 8441978185732202585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_paper_1
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 693
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f576a362d28e27ff0800000000000000
+      internalID: -39714166080379041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_paper_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 0
+        width: 2030
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1c5f29b0d7aedf0800000000000000
+      internalID: -150170148899798620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_paper_3
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 689
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da15b8ac746b3ee30800000000000000
+      internalID: 4531666069521912237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_paper_4
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 675
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe6682c0ae0bd030800000000000000
+      internalID: 3520423617341320955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_paper_5
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 675
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4dd2376fda2eef0800000000000000
+      internalID: -80310569333304157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_paper_6
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 586
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28877ba05b4e66fd0800000000000000
+      internalID: -2348938689407125374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_paper_7
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 85
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b7ceb3e3f45b720800000000000000
+      internalID: 2861280266975738772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_paper_8
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 21
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7538bd808cce66e50800000000000000
+      internalID: 6802384631075930967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_paper_9
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 41
+        width: 58
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa21c04ed360fe860800000000000000
+      internalID: 7561269162267120303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_paper_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 53
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c34268c6c7fc6fd0800000000000000
+      internalID: -2347228872629402682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_paper_11
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 45
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76d21672abf1b470800000000000000
+      internalID: 8408778654461646463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_paper_12
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 61
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d51801e0be371b60800000000000000
+      internalID: 7716705415933203927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_paper_13
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 46
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d781d826cf8038a50800000000000000
+      internalID: 6522066565440804989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_paper_14
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 17
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf63a775ebe55990800000000000000
+      internalID: -7397747442098933836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_paper_15
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 41
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01129e6a165cdde00800000000000000
+      internalID: 1071229309586841872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_paper_16
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 31
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9841841fda8e170800000000000000
+      internalID: 8208001572690758098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_paper_17
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 37
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be300780c37db4b0800000000000000
+      internalID: -5423051105548353864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_paper_18
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 35
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ab047092f160830800000000000000
+      internalID: 4036948377060031047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_paper_19
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 15
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d92b6a708559bdd0800000000000000
+      internalID: -2469848910337988144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_paper_20
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 22
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d22a4d6b221ae70800000000000000
+      internalID: 9124612488676126074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_paper_21
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 27
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ff96966b97fe250800000000000000
+      internalID: 5976129054903500652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_paper_22
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 31
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c472390704b6430800000000000000
+      internalID: 3777183564729633866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_paper_23
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 21
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ed4341074fd74e0800000000000000
+      internalID: -1982159498760626544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_paper_24
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 33
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31036bc54888e65f0800000000000000
+      internalID: -761521184906530797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_paper_25
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 13
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0346a5731f365a20800000000000000
+      internalID: 3050695150400848652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_paper_26
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 17
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99cbad2adfe1ec770800000000000000
+      internalID: 8632871610423622809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_paper_27
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 15
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d1967be5b2c435c0800000000000000
+      internalID: -4236547262853508654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cloud_paper_0: 8441978185732202585
+      cloud_paper_1: -39714166080379041
+      cloud_paper_10: -2347228872629402682
+      cloud_paper_11: 8408778654461646463
+      cloud_paper_12: 7716705415933203927
+      cloud_paper_13: 6522066565440804989
+      cloud_paper_14: -7397747442098933836
+      cloud_paper_15: 1071229309586841872
+      cloud_paper_16: 8208001572690758098
+      cloud_paper_17: -5423051105548353864
+      cloud_paper_18: 4036948377060031047
+      cloud_paper_19: -2469848910337988144
+      cloud_paper_2: -150170148899798620
+      cloud_paper_20: 9124612488676126074
+      cloud_paper_21: 5976129054903500652
+      cloud_paper_22: 3777183564729633866
+      cloud_paper_23: -1982159498760626544
+      cloud_paper_24: -761521184906530797
+      cloud_paper_25: 3050695150400848652
+      cloud_paper_26: 8632871610423622809
+      cloud_paper_27: -4236547262853508654
+      cloud_paper_3: 4531666069521912237
+      cloud_paper_4: 3520423617341320955
+      cloud_paper_5: -80310569333304157
+      cloud_paper_6: -2348938689407125374
+      cloud_paper_7: 2861280266975738772
+      cloud_paper_8: 6802384631075930967
+      cloud_paper_9: 7561269162267120303
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

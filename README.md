@@ -2,7 +2,7 @@
 
 **Wing it!**은 변신하는 장난감 펫과 지형을 돌파하는 **싱글 플레이 2D 액션 플랫포머**입니다. 보스전에서는 펫이 탑승형 마운트로 변신해 횡스크롤 슈팅 전투를 펼치는 방향입니다.
 
-> **기획 기준:** 2026-11-06. 현재 Unity 프로젝트는 `Universal 2D` 템플릿으로 다시 만든 초기 상태입니다. 아래 게임 설명은 구현 목표이며, 실제 진행 상태는 [개발 로드맵](Docs/ROADMAP.md)을 확인하세요.
+> **기획 기준:** 2026-11-06. 현재 Unity 프로젝트에는 2D 조작 시험용 씬과 플레이어 Idle 애니메이션이 추가되어 있습니다. 아래 게임 설명은 구현 목표이며, 실제 진행 상태는 [개발 로드맵](Docs/ROADMAP.md)을 확인하세요.
 
 ## 프로젝트 정보
 
@@ -25,8 +25,8 @@
 ## 현재 프로젝트와 실행 안내
 
 1. Unity Hub에서 이 프로젝트 폴더를 Unity `6000.3.21f1`로 엽니다.
-2. `Assets/Scenes/SampleScene.unity`를 엽니다. 이 씬은 Orthographic 카메라와 `Global Light 2D`만 있는 기본 2D 씬입니다.
-3. 현재 플레이어, 펫, 블록, 지형, 보스와 조작 스크립트는 활성 `Assets`에 없습니다. Play Mode는 빈 2D 씬 확인용입니다.
+2. `Assets/Scenes/SampleScene.unity`를 엽니다. 이 씬에는 Orthographic 카메라, `Global Light 2D`, 플레이어, 펫 이미지와 일부 Ground 에셋이 배치되어 있습니다.
+3. Play Mode에서 `A`/`D`로 좌우 이동하고 `W`로 점프를 시도할 수 있습니다. `PlayerMovement2D`에는 접지 판정이나 공중 점프 제한이 아직 없습니다. 플레이어에는 Idle 애니메이션이 연결되어 있으며, 펫 동행·블록 변신·보스전은 아직 구현되지 않았습니다.
 
 활성 프로젝트에는 공식 `Universal 2D` 템플릿의 `Renderer2D`와 2D 패키지가 적용되었습니다. 교체 전 `Assets`, `Packages`, `ProjectSettings`는 로컬 `Art/LegacyUnityProject-2026-11-06.zip`에 보관했습니다. `Art` 폴더와 압축 파일은 GitHub 저장소에 포함하지 않습니다.
 
