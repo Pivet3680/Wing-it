@@ -119,6 +119,37 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1 &214828068
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 214828069}
+  m_Layer: 6
+  m_Name: GroundCheck
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &214828069
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 214828068}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.18, y: -1.94, z: 0}
+  m_LocalScale: {x: 2.857143, y: 2.857143, z: 2.857143}
+  m_ConstrainProportionsScale: 1
+  m_Children: []
+  m_Father: {fileID: 1822668496}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &403616436
 GameObject:
   m_ObjectHideFlags: 0
@@ -442,11 +473,11 @@ GameObject:
   - component: {fileID: 1822668496}
   - component: {fileID: 1822668495}
   - component: {fileID: 1822668497}
-  - component: {fileID: 1822668499}
   - component: {fileID: 1822668498}
   - component: {fileID: 1822668500}
+  - component: {fileID: 1822668499}
   m_Layer: 0
-  m_Name: PlayerBase
+  m_Name: Player
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -520,10 +551,11 @@ Transform:
   m_GameObject: {fileID: 1822668494}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -5.658, y: -1.297, z: 0}
+  m_LocalPosition: {x: -3.67, y: -1.218, z: 0}
   m_LocalScale: {x: 0.35, y: 0.35, z: 0.35}
   m_ConstrainProportionsScale: 1
-  m_Children: []
+  m_Children:
+  - {fileID: 214828069}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!50 &1822668497
@@ -602,8 +634,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 981f1a1f9f0f2d34fa561b4d3a870e0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerMovement2D
-  moveSpeed: 5
-  jumpPower: 10
+  _moveSpeed: 5
+  _jumpPower: 10
+  _groundCheck: {fileID: 214828069}
+  _checkSize: {x: 0.73, y: 0.05}
+  _groundLayer:
+    serializedVersion: 2
+    m_Bits: 64
 --- !u!95 &1822668500
 Animator:
   serializedVersion: 7
@@ -936,8 +973,8 @@ GameObject:
   - component: {fileID: 1991882212}
   - component: {fileID: 1991882211}
   - component: {fileID: 1991882213}
-  m_Layer: 0
-  m_Name: cloud_paper
+  m_Layer: 6
+  m_Name: CloudPaper
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
