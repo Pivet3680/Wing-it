@@ -1,3 +1,4 @@
+using System.Collections;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -12,13 +13,17 @@ public class PlayerMovement2D : MonoBehaviour
     [SerializeField] private Vector2 _checkSize = new Vector2(0.5f, 0.15f);
     [SerializeField] private LayerMask _groundLayer;
     private Animator _animator;
-    private Rigidbody2D rb;
+    private Rigidbody2D _rb;
+    private SpriteRenderer _spriteRenderer;
     private bool _isGrounded;
+
+    public int FacingDirection { get; private set; } = 1;
 
     private void Awake()
     {
-        rb = GetComponent<Rigidbody2D>();
+        _rb = GetComponent<Rigidbody2D>();
         _animator = GetComponent<Animator>();
+        _spriteRenderer = GetComponent<SpriteRenderer>();
     }
 
     private void Update()
@@ -47,11 +52,21 @@ public class PlayerMovement2D : MonoBehaviour
         if (_animator != null)
             _animator.SetBool("isRunning", isRunning);
 
-        rb.linearVelocityX = horizontal * _moveSpeed;
+        if(horizontal != 0f)
+        {
+            FacingDirection = horizontal > 0f ? 1 : -1;
+
+            if(_spriteRenderer != null)
+            {
+                _spriteRenderer.flipX = FacingDirection == -1;
+            }
+        }
+
+        _rb.linearVelocityX = horizontal * _moveSpeed;
 
         if (Keyboard.current.wKey.wasPressedThisFrame && _isGrounded)
         {
-            rb.linearVelocityY = _jumpPower;
+            _rb.linearVelocityY = _jumpPower;
         }
 
         // Scene 뷰에서 검사 범위 표시 
