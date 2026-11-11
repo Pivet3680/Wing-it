@@ -52,11 +52,11 @@ public class PlayerMovement2D : MonoBehaviour
         if (_animator != null)
             _animator.SetBool("isRunning", isRunning);
 
-        if(horizontal != 0f)
+        if (horizontal != 0f)
         {
             FacingDirection = horizontal > 0f ? 1 : -1;
 
-            if(_spriteRenderer != null)
+            if (_spriteRenderer != null)
             {
                 _spriteRenderer.flipX = FacingDirection == -1;
             }
