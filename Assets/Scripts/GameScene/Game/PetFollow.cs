@@ -22,6 +22,8 @@ public class PetFollow : MonoBehaviour
     }
     private void LateUpdate()
     {
+        if (Time.timeScale == 0f) return;
+
         if (_playerTransform == null) return;
 
         _facingDirection = _playerMovement.FacingDirection;
