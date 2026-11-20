@@ -2,7 +2,7 @@
 
 > **문서 역할:** 중요한 기술·설계 결정(ADR, Architecture Decision Record)의 목차와 관리 기준
 >
-> **현재 상태:** 기획 전환과 2D 프로젝트 초기화 결정 2건 등록.
+> **현재 상태:** 결정 3건 등록.
 >
 > **위치:** `Docs/Decisions/README.md`
 
@@ -18,12 +18,13 @@
 
 ## 2. 결정 기록 목록
 
-아래 표에는 확정된 기획 전환 결정을 기록한다.
+아래 표에는 확정된 결정을 기록한다.
 
 | 번호 | 결정 제목 | 날짜 | 상태 | 문서 |
 | --- | --- | --- | --- | --- |
 | 0001 | 2D 플랫포머와 변신 펫 중심으로 전환 | 2026-11-06 | 확정 | [0001-gameplay-direction.md](0001-gameplay-direction.md) |
 | 0002 | Universal 2D 템플릿으로 프로젝트 초기화 | 2026-11-06 | 확정 | [0002-universal-2d-reset.md](0002-universal-2d-reset.md) |
+| 0003 | Tilemap Extras 6.0.3을 프로젝트에 포함 | 2026-11-20 | 확정 | [0003-embed-tilemap-extras.md](0003-embed-tilemap-extras.md) |
 
 새 ADR을 추가하면 번호, 제목, 결정 날짜(`YYYY-MM-DD`), 상태 및 상대 경로 링크를 함께 기록한다.
 

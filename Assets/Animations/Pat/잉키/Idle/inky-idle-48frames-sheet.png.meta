@@ -1,0 +1,1378 @@
+fileFormatVersion: 2
+guid: 18a3cb8035603f849a111b949f382e52
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3615409766589175703
+    second: inky-idle-48frames-sheet_0
+  - first:
+      213: 1323871353707516834
+    second: inky-idle-48frames-sheet_1
+  - first:
+      213: 4012814383103317900
+    second: inky-idle-48frames-sheet_2
+  - first:
+      213: -7745387284434697094
+    second: inky-idle-48frames-sheet_3
+  - first:
+      213: -7082964153950586642
+    second: inky-idle-48frames-sheet_4
+  - first:
+      213: -2365519052223905891
+    second: inky-idle-48frames-sheet_5
+  - first:
+      213: 5309236674755976793
+    second: inky-idle-48frames-sheet_6
+  - first:
+      213: -7836488348293536603
+    second: inky-idle-48frames-sheet_7
+  - first:
+      213: 4213520006581419258
+    second: inky-idle-48frames-sheet_8
+  - first:
+      213: 2838097323659507934
+    second: inky-idle-48frames-sheet_9
+  - first:
+      213: 2063450309294769544
+    second: inky-idle-48frames-sheet_10
+  - first:
+      213: 3824962130625868717
+    second: inky-idle-48frames-sheet_11
+  - first:
+      213: -3786727283373490896
+    second: inky-idle-48frames-sheet_12
+  - first:
+      213: -779034217470107157
+    second: inky-idle-48frames-sheet_13
+  - first:
+      213: 4698548563395430516
+    second: inky-idle-48frames-sheet_14
+  - first:
+      213: 5777157203805865118
+    second: inky-idle-48frames-sheet_15
+  - first:
+      213: 3815484306194387797
+    second: inky-idle-48frames-sheet_16
+  - first:
+      213: -5280802875060837996
+    second: inky-idle-48frames-sheet_17
+  - first:
+      213: 4214818883701747147
+    second: inky-idle-48frames-sheet_18
+  - first:
+      213: 8929838074073930729
+    second: inky-idle-48frames-sheet_19
+  - first:
+      213: -4174671264374793526
+    second: inky-idle-48frames-sheet_20
+  - first:
+      213: -470664544168459568
+    second: inky-idle-48frames-sheet_21
+  - first:
+      213: -7152636427637277100
+    second: inky-idle-48frames-sheet_22
+  - first:
+      213: -5064110123653452858
+    second: inky-idle-48frames-sheet_23
+  - first:
+      213: 7415843095342310708
+    second: inky-idle-48frames-sheet_24
+  - first:
+      213: 5269527274680201197
+    second: inky-idle-48frames-sheet_25
+  - first:
+      213: -1268225717333002847
+    second: inky-idle-48frames-sheet_26
+  - first:
+      213: 5006713040654226559
+    second: inky-idle-48frames-sheet_27
+  - first:
+      213: 5458073480260656873
+    second: inky-idle-48frames-sheet_28
+  - first:
+      213: 611687741282088730
+    second: inky-idle-48frames-sheet_29
+  - first:
+      213: 1404521692012117213
+    second: inky-idle-48frames-sheet_30
+  - first:
+      213: 6733270535440752562
+    second: inky-idle-48frames-sheet_31
+  - first:
+      213: -9089683811731473308
+    second: inky-idle-48frames-sheet_32
+  - first:
+      213: -328442126629450346
+    second: inky-idle-48frames-sheet_33
+  - first:
+      213: 5919647484282023606
+    second: inky-idle-48frames-sheet_34
+  - first:
+      213: 3746998952460343980
+    second: inky-idle-48frames-sheet_35
+  - first:
+      213: 9198668126507512769
+    second: inky-idle-48frames-sheet_36
+  - first:
+      213: 8405758045035118372
+    second: inky-idle-48frames-sheet_37
+  - first:
+      213: -2230519726137502138
+    second: inky-idle-48frames-sheet_38
+  - first:
+      213: -3865082267454340581
+    second: inky-idle-48frames-sheet_39
+  - first:
+      213: -5801586427581653861
+    second: inky-idle-48frames-sheet_40
+  - first:
+      213: 3364037599972146530
+    second: inky-idle-48frames-sheet_41
+  - first:
+      213: -9172805473169892467
+    second: inky-idle-48frames-sheet_42
+  - first:
+      213: 6034136422570199121
+    second: inky-idle-48frames-sheet_43
+  - first:
+      213: -4323834272562560147
+    second: inky-idle-48frames-sheet_44
+  - first:
+      213: -3881104823882653519
+    second: inky-idle-48frames-sheet_45
+  - first:
+      213: 7081322167085468898
+    second: inky-idle-48frames-sheet_46
+  - first:
+      213: 6401437260745560208
+    second: inky-idle-48frames-sheet_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 350
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: inky-idle-48frames-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1969
+        width: 332
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797960707048c2230800000000000000
+      internalID: 3615409766589175703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-idle-48frames-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1970
+        width: 332
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a35d066bf55f5210800000000000000
+      internalID: 1323871353707516834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-idle-48frames-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1972
+        width: 333
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87937eab6160b730800000000000000
+      internalID: 4012814383103317900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-idle-48frames-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 1973
+        width: 332
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7441773d4bd28490800000000000000
+      internalID: -7745387284434697094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-idle-48frames-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 1975
+        width: 333
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee833fe01a144bd90800000000000000
+      internalID: -7082964153950586642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-idle-48frames-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 1976
+        width: 332
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f76ce74fcfb2fd0800000000000000
+      internalID: -2365519052223905891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-idle-48frames-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 2331
+        y: 1979
+        width: 335
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e5e4b40a23ea940800000000000000
+      internalID: 5309236674755976793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-idle-48frames-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 2716
+        y: 1982
+        width: 333
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4e971ed533f3390800000000000000
+      internalID: -7836488348293536603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-idle-48frames-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1601
+        width: 334
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc794e2f1e697a30800000000000000
+      internalID: 4213520006581419258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-idle-48frames-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1602
+        width: 336
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed836be9a72f26720800000000000000
+      internalID: 2838097323659507934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-idle-48frames-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 1604
+        width: 337
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8854f29af19d2ac10800000000000000
+      internalID: 2063450309294769544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-idle-48frames-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 1607
+        width: 338
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3b643dacef41530800000000000000
+      internalID: 3824962130625868717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-idle-48frames-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 1609
+        width: 338
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d3e354997d27bc0800000000000000
+      internalID: -3786727283373490896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-idle-48frames-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 1609
+        width: 339
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1e1d7b1805035f0800000000000000
+      internalID: -779034217470107157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-idle-48frames-sheet_14
+      rect:
+        serializedVersion: 2
+        x: 2325
+        y: 1610
+        width: 340
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4784b114609943140800000000000000
+      internalID: 4698548563395430516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-idle-48frames-sheet_15
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 1610
+        width: 341
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9400704ed59c2050800000000000000
+      internalID: 5777157203805865118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-idle-48frames-sheet_16
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1227
+        width: 342
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5535bccd2c253f430800000000000000
+      internalID: 3815484306194387797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-idle-48frames-sheet_17
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1226
+        width: 342
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491232793c1d6b6b0800000000000000
+      internalID: -5280802875060837996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-idle-48frames-sheet_18
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 1226
+        width: 340
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcda6a3917b0e7a30800000000000000
+      internalID: 4214818883701747147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-idle-48frames-sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 1226
+        width: 338
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb5fe28a682deb70800000000000000
+      internalID: 8929838074073930729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-idle-48frames-sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 1225
+        width: 336
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acad8e87a969016c0800000000000000
+      internalID: -4174671264374793526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-idle-48frames-sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 1224
+        width: 338
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2c77c371dd779f0800000000000000
+      internalID: -470664544168459568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-idle-48frames-sheet_22
+      rect:
+        serializedVersion: 2
+        x: 2323
+        y: 1223
+        width: 338
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e392bb01bbcbc90800000000000000
+      internalID: -7152636427637277100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-idle-48frames-sheet_23
+      rect:
+        serializedVersion: 2
+        x: 2703
+        y: 1222
+        width: 341
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb2d206caaa8b9b0800000000000000
+      internalID: -5064110123653452858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-idle-48frames-sheet_24
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 837
+        width: 341
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43569ef110e5ae660800000000000000
+      internalID: 7415843095342310708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-idle-48frames-sheet_25
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 836
+        width: 340
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: defab8d132f112940800000000000000
+      internalID: 5269527274680201197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-idle-48frames-sheet_26
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 836
+        width: 338
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a5f95fed6b566ee0800000000000000
+      internalID: -1268225717333002847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-idle-48frames-sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 836
+        width: 335
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74d288dbfa6b7540800000000000000
+      internalID: 5006713040654226559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-idle-48frames-sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 836
+        width: 333
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee9ae489e8febb40800000000000000
+      internalID: 5458073480260656873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-idle-48frames-sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 836
+        width: 334
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17749482c62d7800800000000000000
+      internalID: 611687741282088730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-idle-48frames-sheet_30
+      rect:
+        serializedVersion: 2
+        x: 2328
+        y: 837
+        width: 333
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc76b3990ddd7310800000000000000
+      internalID: 1404521692012117213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-idle-48frames-sheet_31
+      rect:
+        serializedVersion: 2
+        x: 2716
+        y: 838
+        width: 331
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bfdc89a0e1617d50800000000000000
+      internalID: 6733270535440752562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-idle-48frames-sheet_32
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 450
+        width: 329
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c70218bb4fad180800000000000000
+      internalID: -9089683811731473308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-idle-48frames-sheet_33
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 454
+        width: 330
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d4af040a3217bf0800000000000000
+      internalID: -328442126629450346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-idle-48frames-sheet_34
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 456
+        width: 330
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be2a28f500d62250800000000000000
+      internalID: 5919647484282023606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-idle-48frames-sheet_35
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 457
+        width: 330
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caad82fd1b3000430800000000000000
+      internalID: 3746998952460343980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-idle-48frames-sheet_36
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 458
+        width: 330
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c33037aceb38af70800000000000000
+      internalID: 9198668126507512769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-idle-48frames-sheet_37
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 458
+        width: 331
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f3336086047a470800000000000000
+      internalID: 8405758045035118372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-idle-48frames-sheet_38
+      rect:
+        serializedVersion: 2
+        x: 2331
+        y: 459
+        width: 334
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646921b702a9b01e0800000000000000
+      internalID: -2230519726137502138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-idle-48frames-sheet_39
+      rect:
+        serializedVersion: 2
+        x: 2713
+        y: 460
+        width: 335
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1209b4e7287c5ac0800000000000000
+      internalID: -3865082267454340581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-idle-48frames-sheet_40
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 78
+        width: 336
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c944ad1ef9c7fa0800000000000000
+      internalID: -5801586427581653861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-idle-48frames-sheet_41
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 78
+        width: 337
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26db56daf567fae20800000000000000
+      internalID: 3364037599972146530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-idle-48frames-sheet_42
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 79
+        width: 338
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b13f19506a3b080800000000000000
+      internalID: -9172805473169892467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-idle-48frames-sheet_43
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 79
+        width: 340
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1580b892b1f8db350800000000000000
+      internalID: 6034136422570199121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-idle-48frames-sheet_44
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 80
+        width: 339
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63cf3443a7aef3c0800000000000000
+      internalID: -4323834272562560147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-idle-48frames-sheet_45
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 72
+        width: 338
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b06b64c9bb832ac0800000000000000
+      internalID: -3881104823882653519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-idle-48frames-sheet_46
+      rect:
+        serializedVersion: 2
+        x: 2329
+        y: 63
+        width: 336
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec8a351ef8e54260800000000000000
+      internalID: 7081322167085468898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-idle-48frames-sheet_47
+      rect:
+        serializedVersion: 2
+        x: 2716
+        y: 55
+        width: 334
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09050bab54976d850800000000000000
+      internalID: 6401437260745560208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      inky-idle-48frames-sheet_0: 3615409766589175703
+      inky-idle-48frames-sheet_1: 1323871353707516834
+      inky-idle-48frames-sheet_10: 2063450309294769544
+      inky-idle-48frames-sheet_11: 3824962130625868717
+      inky-idle-48frames-sheet_12: -3786727283373490896
+      inky-idle-48frames-sheet_13: -779034217470107157
+      inky-idle-48frames-sheet_14: 4698548563395430516
+      inky-idle-48frames-sheet_15: 5777157203805865118
+      inky-idle-48frames-sheet_16: 3815484306194387797
+      inky-idle-48frames-sheet_17: -5280802875060837996
+      inky-idle-48frames-sheet_18: 4214818883701747147
+      inky-idle-48frames-sheet_19: 8929838074073930729
+      inky-idle-48frames-sheet_2: 4012814383103317900
+      inky-idle-48frames-sheet_20: -4174671264374793526
+      inky-idle-48frames-sheet_21: -470664544168459568
+      inky-idle-48frames-sheet_22: -7152636427637277100
+      inky-idle-48frames-sheet_23: -5064110123653452858
+      inky-idle-48frames-sheet_24: 7415843095342310708
+      inky-idle-48frames-sheet_25: 5269527274680201197
+      inky-idle-48frames-sheet_26: -1268225717333002847
+      inky-idle-48frames-sheet_27: 5006713040654226559
+      inky-idle-48frames-sheet_28: 5458073480260656873
+      inky-idle-48frames-sheet_29: 611687741282088730
+      inky-idle-48frames-sheet_3: -7745387284434697094
+      inky-idle-48frames-sheet_30: 1404521692012117213
+      inky-idle-48frames-sheet_31: 6733270535440752562
+      inky-idle-48frames-sheet_32: -9089683811731473308
+      inky-idle-48frames-sheet_33: -328442126629450346
+      inky-idle-48frames-sheet_34: 5919647484282023606
+      inky-idle-48frames-sheet_35: 3746998952460343980
+      inky-idle-48frames-sheet_36: 9198668126507512769
+      inky-idle-48frames-sheet_37: 8405758045035118372
+      inky-idle-48frames-sheet_38: -2230519726137502138
+      inky-idle-48frames-sheet_39: -3865082267454340581
+      inky-idle-48frames-sheet_4: -7082964153950586642
+      inky-idle-48frames-sheet_40: -5801586427581653861
+      inky-idle-48frames-sheet_41: 3364037599972146530
+      inky-idle-48frames-sheet_42: -9172805473169892467
+      inky-idle-48frames-sheet_43: 6034136422570199121
+      inky-idle-48frames-sheet_44: -4323834272562560147
+      inky-idle-48frames-sheet_45: -3881104823882653519
+      inky-idle-48frames-sheet_46: 7081322167085468898
+      inky-idle-48frames-sheet_47: 6401437260745560208
+      inky-idle-48frames-sheet_5: -2365519052223905891
+      inky-idle-48frames-sheet_6: 5309236674755976793
+      inky-idle-48frames-sheet_7: -7836488348293536603
+      inky-idle-48frames-sheet_8: 4213520006581419258
+      inky-idle-48frames-sheet_9: 2838097323659507934
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
