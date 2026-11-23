@@ -1,0 +1,2626 @@
+fileFormatVersion: 2
+guid: 98a4090f9dcea84498107136eaf70a3d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6690342392142723585
+    second: inky-box-idle-stable-sheet_0
+  - first:
+      213: 1459755518198683733
+    second: inky-box-idle-stable-sheet_1
+  - first:
+      213: 7862552409240915835
+    second: inky-box-idle-stable-sheet_2
+  - first:
+      213: -4554955613031940720
+    second: inky-box-idle-stable-sheet_3
+  - first:
+      213: -8728715497339682410
+    second: inky-box-idle-stable-sheet_4
+  - first:
+      213: 8319792519866097723
+    second: inky-box-idle-stable-sheet_5
+  - first:
+      213: 3167603142898872527
+    second: inky-box-idle-stable-sheet_6
+  - first:
+      213: 5365092245425779718
+    second: inky-box-idle-stable-sheet_7
+  - first:
+      213: -8780434630702970176
+    second: inky-box-idle-stable-sheet_8
+  - first:
+      213: 6836756272606869722
+    second: inky-box-idle-stable-sheet_9
+  - first:
+      213: 2350871274023938987
+    second: inky-box-idle-stable-sheet_10
+  - first:
+      213: 7349010683526664608
+    second: inky-box-idle-stable-sheet_11
+  - first:
+      213: 2277838595431602962
+    second: inky-box-idle-stable-sheet_12
+  - first:
+      213: 546258458306327871
+    second: inky-box-idle-stable-sheet_13
+  - first:
+      213: -6821919690650131858
+    second: inky-box-idle-stable-sheet_14
+  - first:
+      213: -4480224532110806228
+    second: inky-box-idle-stable-sheet_15
+  - first:
+      213: -8655644100609588920
+    second: inky-box-idle-stable-sheet_16
+  - first:
+      213: -396989637814532577
+    second: inky-box-idle-stable-sheet_17
+  - first:
+      213: 7425320826975140990
+    second: inky-box-idle-stable-sheet_18
+  - first:
+      213: -2894708710719605474
+    second: inky-box-idle-stable-sheet_19
+  - first:
+      213: 3631722706486508409
+    second: inky-box-idle-stable-sheet_20
+  - first:
+      213: -7031908367813734409
+    second: inky-box-idle-stable-sheet_21
+  - first:
+      213: -1280439072407212712
+    second: inky-box-idle-stable-sheet_22
+  - first:
+      213: -6360615151158730905
+    second: inky-box-idle-stable-sheet_23
+  - first:
+      213: 1575275252380276361
+    second: inky-box-idle-stable-sheet_24
+  - first:
+      213: -4239392368909231848
+    second: inky-box-idle-stable-sheet_25
+  - first:
+      213: 6447167276787790583
+    second: inky-box-idle-stable-sheet_26
+  - first:
+      213: 6502526074678895097
+    second: inky-box-idle-stable-sheet_27
+  - first:
+      213: -5778087927026820314
+    second: inky-box-idle-stable-sheet_28
+  - first:
+      213: -8485920555077397898
+    second: inky-box-idle-stable-sheet_29
+  - first:
+      213: -4681569643927083094
+    second: inky-box-idle-stable-sheet_30
+  - first:
+      213: 3743215157849043257
+    second: inky-box-idle-stable-sheet_31
+  - first:
+      213: 1090675196732244861
+    second: inky-box-idle-stable-sheet_32
+  - first:
+      213: 1202806047462782870
+    second: inky-box-idle-stable-sheet_33
+  - first:
+      213: 8706881910385002314
+    second: inky-box-idle-stable-sheet_34
+  - first:
+      213: -1713606198538368313
+    second: inky-box-idle-stable-sheet_35
+  - first:
+      213: 6511336623282905177
+    second: inky-box-idle-stable-sheet_36
+  - first:
+      213: -3520919704211104899
+    second: inky-box-idle-stable-sheet_37
+  - first:
+      213: -7455298680266234867
+    second: inky-box-idle-stable-sheet_38
+  - first:
+      213: 3097263216556329246
+    second: inky-box-idle-stable-sheet_39
+  - first:
+      213: -2989354578985810296
+    second: inky-box-idle-stable-sheet_40
+  - first:
+      213: 556011559388423502
+    second: inky-box-idle-stable-sheet_41
+  - first:
+      213: -7010283068412087572
+    second: inky-box-idle-stable-sheet_42
+  - first:
+      213: -4249790323752900227
+    second: inky-box-idle-stable-sheet_43
+  - first:
+      213: -1068309125395395171
+    second: inky-box-idle-stable-sheet_44
+  - first:
+      213: 5704652458236841588
+    second: inky-box-idle-stable-sheet_45
+  - first:
+      213: 1151356631746123610
+    second: inky-box-idle-stable-sheet_46
+  - first:
+      213: -7672380732656723670
+    second: inky-box-idle-stable-sheet_47
+  - first:
+      213: 2697918986249597456
+    second: inky-box-idle-stable-sheet_48
+  - first:
+      213: -3048776847565102053
+    second: inky-box-idle-stable-sheet_49
+  - first:
+      213: -4444526288133003729
+    second: inky-box-idle-stable-sheet_50
+  - first:
+      213: 4205609663049399341
+    second: inky-box-idle-stable-sheet_51
+  - first:
+      213: 942487975188941356
+    second: inky-box-idle-stable-sheet_52
+  - first:
+      213: 7386696187609131948
+    second: inky-box-idle-stable-sheet_53
+  - first:
+      213: -3144668106232818705
+    second: inky-box-idle-stable-sheet_54
+  - first:
+      213: -93895747807146322
+    second: inky-box-idle-stable-sheet_55
+  - first:
+      213: -2935388192750111674
+    second: inky-box-idle-stable-sheet_56
+  - first:
+      213: -5760214740206454886
+    second: inky-box-idle-stable-sheet_57
+  - first:
+      213: -816503596111780875
+    second: inky-box-idle-stable-sheet_58
+  - first:
+      213: -2771817587853929788
+    second: inky-box-idle-stable-sheet_59
+  - first:
+      213: 2704042740124046885
+    second: inky-box-idle-stable-sheet_60
+  - first:
+      213: -7453388483130607929
+    second: inky-box-idle-stable-sheet_61
+  - first:
+      213: -7522978896923457243
+    second: inky-box-idle-stable-sheet_62
+  - first:
+      213: 3213793483332705691
+    second: inky-box-idle-stable-sheet_63
+  - first:
+      213: -6822600336112365183
+    second: inky-box-idle-stable-sheet_64
+  - first:
+      213: 2060458832239957698
+    second: inky-box-idle-stable-sheet_65
+  - first:
+      213: -4224859873878992015
+    second: inky-box-idle-stable-sheet_66
+  - first:
+      213: -8576232458999261098
+    second: inky-box-idle-stable-sheet_67
+  - first:
+      213: -5183137686598020374
+    second: inky-box-idle-stable-sheet_68
+  - first:
+      213: -8320692598319998008
+    second: inky-box-idle-stable-sheet_69
+  - first:
+      213: 6653119723845728143
+    second: inky-box-idle-stable-sheet_70
+  - first:
+      213: 3479220766342319481
+    second: inky-box-idle-stable-sheet_71
+  - first:
+      213: -6520188748443552320
+    second: inky-box-idle-stable-sheet_72
+  - first:
+      213: -3206850521322184542
+    second: inky-box-idle-stable-sheet_73
+  - first:
+      213: 3583618471145218198
+    second: inky-box-idle-stable-sheet_74
+  - first:
+      213: 6274329719688366032
+    second: inky-box-idle-stable-sheet_75
+  - first:
+      213: -6171332347862478485
+    second: inky-box-idle-stable-sheet_76
+  - first:
+      213: 4471523539137950047
+    second: inky-box-idle-stable-sheet_77
+  - first:
+      213: -228951714586394576
+    second: inky-box-idle-stable-sheet_78
+  - first:
+      213: 3062119720962882652
+    second: inky-box-idle-stable-sheet_79
+  - first:
+      213: 6691780898284100820
+    second: inky-box-idle-stable-sheet_80
+  - first:
+      213: 2659451635532994212
+    second: inky-box-idle-stable-sheet_81
+  - first:
+      213: -8622311753013528753
+    second: inky-box-idle-stable-sheet_82
+  - first:
+      213: 6720890417656929229
+    second: inky-box-idle-stable-sheet_83
+  - first:
+      213: 6177757096581605496
+    second: inky-box-idle-stable-sheet_84
+  - first:
+      213: 8845426998135897096
+    second: inky-box-idle-stable-sheet_85
+  - first:
+      213: 4684751447283588027
+    second: inky-box-idle-stable-sheet_86
+  - first:
+      213: -8427075854786498906
+    second: inky-box-idle-stable-sheet_87
+  - first:
+      213: -3842804578582057877
+    second: inky-box-idle-stable-sheet_88
+  - first:
+      213: -6424806164902652115
+    second: inky-box-idle-stable-sheet_89
+  - first:
+      213: -8093057112897929456
+    second: inky-box-idle-stable-sheet_90
+  - first:
+      213: 8121104347150076756
+    second: inky-box-idle-stable-sheet_91
+  - first:
+      213: 8201200209603868137
+    second: inky-box-idle-stable-sheet_92
+  - first:
+      213: -650046214860151090
+    second: inky-box-idle-stable-sheet_93
+  - first:
+      213: -5703754141458081339
+    second: inky-box-idle-stable-sheet_94
+  - first:
+      213: 4432002841938213749
+    second: inky-box-idle-stable-sheet_95
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 139
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 4247
+        width: 314
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a776d65fed8dc50800000000000000
+      internalID: 6690342392142723585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 4247
+        width: 314
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5581621e8e7124410800000000000000
+      internalID: 1459755518198683733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 4247
+        width: 314
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f42b432c56d1d60800000000000000
+      internalID: 7862552409240915835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 4247
+        width: 314
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d3f8dc00c89c0c0800000000000000
+      internalID: -4554955613031940720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 4247
+        width: 314
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6910f9b708f5dd680800000000000000
+      internalID: -8728715497339682410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 4247
+        width: 314
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3022977737d57370800000000000000
+      internalID: 8319792519866097723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 2339
+        y: 4247
+        width: 314
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0f5e9964695fb20800000000000000
+      internalID: 3167603142898872527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 4247
+        width: 314
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6047ec3c8f2a47a40800000000000000
+      internalID: 5365092245425779718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 3863
+        width: 314
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca496f5931a52680800000000000000
+      internalID: -8780434630702970176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 3863
+        width: 314
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8f7a47b9901ee50800000000000000
+      internalID: 6836756272606869722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 3863
+        width: 314
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: babedd0e7f8ff9020800000000000000
+      internalID: 2350871274023938987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 3863
+        width: 314
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1582aa74eecf560800000000000000
+      internalID: 7349010683526664608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 3863
+        width: 314
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b106052228c9f10800000000000000
+      internalID: 2277838595431602962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 3863
+        width: 314
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35b6e27c23b49700800000000000000
+      internalID: 546258458306327871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_14
+      rect:
+        serializedVersion: 2
+        x: 2339
+        y: 3863
+        width: 314
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e626e887f2ca351a0800000000000000
+      internalID: -6821919690650131858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_15
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 3863
+        width: 314
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c237b89768b03d1c0800000000000000
+      internalID: -4480224532110806228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_16
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 3479
+        width: 314
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841c5f0dc89f0e780800000000000000
+      internalID: -8655644100609588920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_17
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 3479
+        width: 314
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16cd8a170c9d7af0800000000000000
+      internalID: -396989637814532577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_18
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 3479
+        width: 314
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7cb92b73f90c0760800000000000000
+      internalID: 7425320826975140990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 3479
+        width: 314
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e153451b3cde3d7d0800000000000000
+      internalID: -2894708710719605474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 3479
+        width: 314
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b39d25f88766230800000000000000
+      internalID: 3631722706486508409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 3479
+        width: 314
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff8d5b9894a96e90800000000000000
+      internalID: -7031908367813734409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_22
+      rect:
+        serializedVersion: 2
+        x: 2339
+        y: 3479
+        width: 314
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d23ac9277fa3ee0800000000000000
+      internalID: -1280439072407212712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_23
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 3479
+        width: 314
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f5732583e8ab7a0800000000000000
+      internalID: -6360615151158730905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_24
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 3095
+        width: 314
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9861791fe708cd510800000000000000
+      internalID: 1575275252380276361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_25
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 3095
+        width: 314
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 819d9ab0a17aa25c0800000000000000
+      internalID: -4239392368909231848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_26
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 3095
+        width: 314
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2757cca70f87950800000000000000
+      internalID: 6447167276787790583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 3095
+        width: 314
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f163f7530d9d3a50800000000000000
+      internalID: 6502526074678895097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 3095
+        width: 314
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62bd79cd4ab10dfa0800000000000000
+      internalID: -5778087927026820314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 3095
+        width: 314
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6721d6a2734fb3a80800000000000000
+      internalID: -8485920555077397898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_30
+      rect:
+        serializedVersion: 2
+        x: 2339
+        y: 3095
+        width: 314
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7697e7639b70fb0800000000000000
+      internalID: -4681569643927083094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_31
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 3095
+        width: 314
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93133798a5292f330800000000000000
+      internalID: 3743215157849043257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_32
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 2711
+        width: 314
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d730e82105bd22f00800000000000000
+      internalID: 1090675196732244861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_33
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 2711
+        width: 314
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 697f5b83ab931b010800000000000000
+      internalID: 1202806047462782870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_34
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 2711
+        width: 314
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47c5c967fe05d870800000000000000
+      internalID: 8706881910385002314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_35
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 2711
+        width: 314
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca8633dd3c0838e0800000000000000
+      internalID: -1713606198538368313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_36
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 2711
+        width: 314
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950e4cb092aec5a50800000000000000
+      internalID: 6511336623282905177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_37
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 2711
+        width: 314
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7bd2d30f2e232fc0800000000000000
+      internalID: -3520919704211104899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_38
+      rect:
+        serializedVersion: 2
+        x: 2339
+        y: 2711
+        width: 314
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04ea44a955798890800000000000000
+      internalID: -7455298680266234867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_39
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 2711
+        width: 314
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1949b64c70bbfa20800000000000000
+      internalID: 3097263216556329246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_40
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 2327
+        width: 314
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8860dd349dda386d0800000000000000
+      internalID: -2989354578985810296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_41
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 2327
+        width: 314
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45ab50419957b700800000000000000
+      internalID: 556011559388423502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_42
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 2327
+        width: 314
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2bc5cf0b876be90800000000000000
+      internalID: -7010283068412087572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_43
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 2327
+        width: 314
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79e0d68736b505c0800000000000000
+      internalID: -4249790323752900227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_44
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 2327
+        width: 314
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9dcf76b28a9c21f0800000000000000
+      internalID: -1068309125395395171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_45
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 2327
+        width: 314
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e044caf2ffa2f40800000000000000
+      internalID: 5704652458236841588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_46
+      rect:
+        serializedVersion: 2
+        x: 2339
+        y: 2327
+        width: 314
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a579405a1c07aff00800000000000000
+      internalID: 1151356631746123610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_47
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 2327
+        width: 314
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29d178af5a368590800000000000000
+      internalID: -7672380732656723670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_48
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1943
+        width: 314
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0127038160fe07520800000000000000
+      internalID: 2697918986249597456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_49
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1943
+        width: 314
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1462793c9190b5d0800000000000000
+      internalID: -3048776847565102053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_50
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1943
+        width: 314
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2662f893eed152c0800000000000000
+      internalID: -4444526288133003729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_51
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 1943
+        width: 314
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c720ec4b35d5a30800000000000000
+      internalID: 4205609663049399341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_52
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 1943
+        width: 314
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ac636e1d3641d00800000000000000
+      internalID: 942487975188941356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_53
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 1943
+        width: 314
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cabac26db01d28660800000000000000
+      internalID: 7386696187609131948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_54
+      rect:
+        serializedVersion: 2
+        x: 2339
+        y: 1943
+        width: 314
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe31e7fb405eb54d0800000000000000
+      internalID: -3144668106232818705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_55
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 1943
+        width: 314
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae090a905a62bef0800000000000000
+      internalID: -93895747807146322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_56
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1559
+        width: 314
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644f045bdf76347d0800000000000000
+      internalID: -2935388192750111674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_57
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1559
+        width: 314
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a977604763b9f00b0800000000000000
+      internalID: -5760214740206454886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_58
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1559
+        width: 314
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3adeb2e423ba4f0800000000000000
+      internalID: -816503596111780875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_59
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 1559
+        width: 314
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c259cde6968889d0800000000000000
+      internalID: -2771817587853929788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_60
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 1559
+        width: 314
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5265196ab80b68520800000000000000
+      internalID: 2704042740124046885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_61
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 1559
+        width: 314
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c633021aae309890800000000000000
+      internalID: -7453388483130607929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_62
+      rect:
+        serializedVersion: 2
+        x: 2339
+        y: 1559
+        width: 314
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5290e1c3d82099790800000000000000
+      internalID: -7522978896923457243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_63
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 1559
+        width: 314
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9dd28b4520b99c20800000000000000
+      internalID: 3213793483332705691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_64
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1175
+        width: 314
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 181df8954214151a0800000000000000
+      internalID: -6822600336112365183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_65
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1175
+        width: 314
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c69af12468389c10800000000000000
+      internalID: 2060458832239957698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_66
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1175
+        width: 314
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b14a734584e55c0800000000000000
+      internalID: -4224859873878992015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_67
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 1175
+        width: 314
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6589c22740a1bf880800000000000000
+      internalID: -8576232458999261098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_68
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 1175
+        width: 314
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae292684cbbc118b0800000000000000
+      internalID: -5183137686598020374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_69
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 1175
+        width: 314
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb1aefaa26f68c80800000000000000
+      internalID: -8320692598319998008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_70
+      rect:
+        serializedVersion: 2
+        x: 2339
+        y: 1175
+        width: 314
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8738fb9321a45c50800000000000000
+      internalID: 6653119723845728143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_71
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 1175
+        width: 314
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d0ff07adca84030800000000000000
+      internalID: 3479220766342319481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_72
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 791
+        width: 314
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5f584f0e2a385a0800000000000000
+      internalID: -6520188748443552320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_73
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 791
+        width: 314
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0a0d4017afe73d0800000000000000
+      internalID: -3206850521322184542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_74
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 791
+        width: 314
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690a32f33029bb130800000000000000
+      internalID: 3583618471145218198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_75
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 791
+        width: 314
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d783b123a5e21750800000000000000
+      internalID: 6274329719688366032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_76
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 791
+        width: 314
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6197ce3de50b5aa0800000000000000
+      internalID: -6171332347862478485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_77
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 791
+        width: 314
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f517d1bb7fa0e0e30800000000000000
+      internalID: 4471523539137950047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_78
+      rect:
+        serializedVersion: 2
+        x: 2339
+        y: 791
+        width: 314
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0308c5de0a992dcf0800000000000000
+      internalID: -228951714586394576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_79
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 791
+        width: 314
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5cf5b399a5de7a20800000000000000
+      internalID: 3062119720962882652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_80
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 407
+        width: 314
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dcd7fcb54bfddc50800000000000000
+      internalID: 6691780898284100820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_81
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 407
+        width: 314
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a696411c2548e420800000000000000
+      internalID: 2659451635532994212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_82
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 407
+        width: 314
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47f3f2c425675880800000000000000
+      internalID: -8622311753013528753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_83
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 407
+        width: 314
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb94ced936654d50800000000000000
+      internalID: 6720890417656929229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_84
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 407
+        width: 314
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8782562295dcbb550800000000000000
+      internalID: 6177757096581605496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_85
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 407
+        width: 314
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c3a8e5df441ca70800000000000000
+      internalID: 8845426998135897096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_86
+      rect:
+        serializedVersion: 2
+        x: 2339
+        y: 407
+        width: 314
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbbd554de94930140800000000000000
+      internalID: 4684751447283588027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_87
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 407
+        width: 314
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aeed2c98230d0b80800000000000000
+      internalID: -8427075854786498906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_88
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 23
+        width: 314
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c2f58889d9baac0800000000000000
+      internalID: -3842804578582057877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_89
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 23
+        width: 314
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d27dc3645d086d6a0800000000000000
+      internalID: -6424806164902652115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_90
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 23
+        width: 314
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f35c64f6fafaf80800000000000000
+      internalID: -8093057112897929456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_91
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 23
+        width: 314
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45bc2c35065f3b070800000000000000
+      internalID: 8121104347150076756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_92
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 23
+        width: 314
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e53c49832480d170800000000000000
+      internalID: 8201200209603868137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_93
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 23
+        width: 314
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec66ca369629af6f0800000000000000
+      internalID: -650046214860151090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_94
+      rect:
+        serializedVersion: 2
+        x: 2339
+        y: 23
+        width: 314
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c95a3004d138d0b0800000000000000
+      internalID: -5703754141458081339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inky-box-idle-stable-sheet_95
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 23
+        width: 314
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57bbf3d5a13a18d30800000000000000
+      internalID: 4432002841938213749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      inky-box-idle-stable-sheet_0: 6690342392142723585
+      inky-box-idle-stable-sheet_1: 1459755518198683733
+      inky-box-idle-stable-sheet_10: 2350871274023938987
+      inky-box-idle-stable-sheet_11: 7349010683526664608
+      inky-box-idle-stable-sheet_12: 2277838595431602962
+      inky-box-idle-stable-sheet_13: 546258458306327871
+      inky-box-idle-stable-sheet_14: -6821919690650131858
+      inky-box-idle-stable-sheet_15: -4480224532110806228
+      inky-box-idle-stable-sheet_16: -8655644100609588920
+      inky-box-idle-stable-sheet_17: -396989637814532577
+      inky-box-idle-stable-sheet_18: 7425320826975140990
+      inky-box-idle-stable-sheet_19: -2894708710719605474
+      inky-box-idle-stable-sheet_2: 7862552409240915835
+      inky-box-idle-stable-sheet_20: 3631722706486508409
+      inky-box-idle-stable-sheet_21: -7031908367813734409
+      inky-box-idle-stable-sheet_22: -1280439072407212712
+      inky-box-idle-stable-sheet_23: -6360615151158730905
+      inky-box-idle-stable-sheet_24: 1575275252380276361
+      inky-box-idle-stable-sheet_25: -4239392368909231848
+      inky-box-idle-stable-sheet_26: 6447167276787790583
+      inky-box-idle-stable-sheet_27: 6502526074678895097
+      inky-box-idle-stable-sheet_28: -5778087927026820314
+      inky-box-idle-stable-sheet_29: -8485920555077397898
+      inky-box-idle-stable-sheet_3: -4554955613031940720
+      inky-box-idle-stable-sheet_30: -4681569643927083094
+      inky-box-idle-stable-sheet_31: 3743215157849043257
+      inky-box-idle-stable-sheet_32: 1090675196732244861
+      inky-box-idle-stable-sheet_33: 1202806047462782870
+      inky-box-idle-stable-sheet_34: 8706881910385002314
+      inky-box-idle-stable-sheet_35: -1713606198538368313
+      inky-box-idle-stable-sheet_36: 6511336623282905177
+      inky-box-idle-stable-sheet_37: -3520919704211104899
+      inky-box-idle-stable-sheet_38: -7455298680266234867
+      inky-box-idle-stable-sheet_39: 3097263216556329246
+      inky-box-idle-stable-sheet_4: -8728715497339682410
+      inky-box-idle-stable-sheet_40: -2989354578985810296
+      inky-box-idle-stable-sheet_41: 556011559388423502
+      inky-box-idle-stable-sheet_42: -7010283068412087572
+      inky-box-idle-stable-sheet_43: -4249790323752900227
+      inky-box-idle-stable-sheet_44: -1068309125395395171
+      inky-box-idle-stable-sheet_45: 5704652458236841588
+      inky-box-idle-stable-sheet_46: 1151356631746123610
+      inky-box-idle-stable-sheet_47: -7672380732656723670
+      inky-box-idle-stable-sheet_48: 2697918986249597456
+      inky-box-idle-stable-sheet_49: -3048776847565102053
+      inky-box-idle-stable-sheet_5: 8319792519866097723
+      inky-box-idle-stable-sheet_50: -4444526288133003729
+      inky-box-idle-stable-sheet_51: 4205609663049399341
+      inky-box-idle-stable-sheet_52: 942487975188941356
+      inky-box-idle-stable-sheet_53: 7386696187609131948
+      inky-box-idle-stable-sheet_54: -3144668106232818705
+      inky-box-idle-stable-sheet_55: -93895747807146322
+      inky-box-idle-stable-sheet_56: -2935388192750111674
+      inky-box-idle-stable-sheet_57: -5760214740206454886
+      inky-box-idle-stable-sheet_58: -816503596111780875
+      inky-box-idle-stable-sheet_59: -2771817587853929788
+      inky-box-idle-stable-sheet_6: 3167603142898872527
+      inky-box-idle-stable-sheet_60: 2704042740124046885
+      inky-box-idle-stable-sheet_61: -7453388483130607929
+      inky-box-idle-stable-sheet_62: -7522978896923457243
+      inky-box-idle-stable-sheet_63: 3213793483332705691
+      inky-box-idle-stable-sheet_64: -6822600336112365183
+      inky-box-idle-stable-sheet_65: 2060458832239957698
+      inky-box-idle-stable-sheet_66: -4224859873878992015
+      inky-box-idle-stable-sheet_67: -8576232458999261098
+      inky-box-idle-stable-sheet_68: -5183137686598020374
+      inky-box-idle-stable-sheet_69: -8320692598319998008
+      inky-box-idle-stable-sheet_7: 5365092245425779718
+      inky-box-idle-stable-sheet_70: 6653119723845728143
+      inky-box-idle-stable-sheet_71: 3479220766342319481
+      inky-box-idle-stable-sheet_72: -6520188748443552320
+      inky-box-idle-stable-sheet_73: -3206850521322184542
+      inky-box-idle-stable-sheet_74: 3583618471145218198
+      inky-box-idle-stable-sheet_75: 6274329719688366032
+      inky-box-idle-stable-sheet_76: -6171332347862478485
+      inky-box-idle-stable-sheet_77: 4471523539137950047
+      inky-box-idle-stable-sheet_78: -228951714586394576
+      inky-box-idle-stable-sheet_79: 3062119720962882652
+      inky-box-idle-stable-sheet_8: -8780434630702970176
+      inky-box-idle-stable-sheet_80: 6691780898284100820
+      inky-box-idle-stable-sheet_81: 2659451635532994212
+      inky-box-idle-stable-sheet_82: -8622311753013528753
+      inky-box-idle-stable-sheet_83: 6720890417656929229
+      inky-box-idle-stable-sheet_84: 6177757096581605496
+      inky-box-idle-stable-sheet_85: 8845426998135897096
+      inky-box-idle-stable-sheet_86: 4684751447283588027
+      inky-box-idle-stable-sheet_87: -8427075854786498906
+      inky-box-idle-stable-sheet_88: -3842804578582057877
+      inky-box-idle-stable-sheet_89: -6424806164902652115
+      inky-box-idle-stable-sheet_9: 6836756272606869722
+      inky-box-idle-stable-sheet_90: -8093057112897929456
+      inky-box-idle-stable-sheet_91: 8121104347150076756
+      inky-box-idle-stable-sheet_92: 8201200209603868137
+      inky-box-idle-stable-sheet_93: -650046214860151090
+      inky-box-idle-stable-sheet_94: -5703754141458081339
+      inky-box-idle-stable-sheet_95: 4432002841938213749
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

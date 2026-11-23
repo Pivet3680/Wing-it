@@ -1,4 +1,6 @@
 
+using System;
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -7,6 +9,16 @@ public class PlayerMovement2D : MonoBehaviour
     [Header("Movement")]
     [SerializeField] private float _moveSpeed = 5f;
     [SerializeField] private float _jumpPower = 10f;
+
+    [Header("Hit Setting")]
+    [SerializeField] private float _knockbackX = 6f;
+    [SerializeField] private float _knockbackY = 3f;
+    [SerializeField] private float _knockbackDuration = 0.2f;
+    [SerializeField] private float _invincibleDuration = 0.5f;
+
+    private bool _isknockedBack;
+    private float _knockbackEndTime;
+    private float _invincibleEndTime;
 
     [Header("Ground Check")]
     [SerializeField] private Transform _groundCheck;
@@ -39,6 +51,10 @@ public class PlayerMovement2D : MonoBehaviour
     private float _dashEndTime;
     private int _dashDirection;
 
+    [Header("Pet Launch")]
+    [SerializeField] private PetLauncher2D _petLauncher;
+    [SerializeField] private float _launchRange = 0.5f;
+
     public int FacingDirection { get; private set; } = 1;
 
     private void Awake()
@@ -57,6 +73,14 @@ public class PlayerMovement2D : MonoBehaviour
 
     private void Update()
     {
+        // 넉백 중에는 일반 이동 및 점프 입력 차단
+        if (_isknockedBack)
+        {
+            if (Time.time < _knockbackEndTime) return;
+
+            _isknockedBack = false;
+        }
+
         // 대시 중 일반 이동과 점프 차단
         if (_isDashing)
             return;
@@ -117,11 +141,20 @@ public class PlayerMovement2D : MonoBehaviour
             _animator.SetTrigger("isJumping");
         }
         
-        // 대시 시작
-        if (Keyboard.current.spaceKey.wasPressedThisFrame &&
-            Time.time >= _nextDashTime)
+        // 가까운 블록을 차고, 발사할 수 없으면 기존 대시를 실행한다.
+        if (Keyboard.current.spaceKey.wasPressedThisFrame)
         {
-            StartDash();
+            if (_petLauncher != null &&
+                _petLauncher.TryLaunchFrom(_playerCollider, FacingDirection, _launchRange))
+            {
+                if (_animator != null)
+                    _animator.SetTrigger("Kick");
+            }
+            else if (Time.time >= _nextDashTime)
+            {
+
+                StartDash();
+            }
         }
     }
 
@@ -157,6 +190,31 @@ public class PlayerMovement2D : MonoBehaviour
         );
     }
 
+    public void TakeHit(Vector2 enemyPosition)
+    {
+        if (_isDashing)
+        {
+            _isDashing = false;
+            _rb.gravityScale = _originalGravity;
+        }
+        // 무적 상태라면, 피격 무시
+        if (Time.time < _invincibleEndTime) return;
+
+        _invincibleEndTime = Time.time + _invincibleDuration;
+        _knockbackEndTime = Time.time + _knockbackDuration;
+        _isknockedBack = true;
+
+        // 적의 반대 방향으로 넉백
+        float direction =
+            transform.position.x < enemyPosition.x ? -1f : 1f;
+        
+        _rb.linearVelocity = new Vector2(
+            direction * _knockbackX,
+            _knockbackY);
+
+        // 패격 애니메이션 (Anlmator에 Hit Trigger가 있을때)
+        _animator.SetTrigger("Hit");
+    }
     private void StartDash()
     {
         _isDashing = true;
